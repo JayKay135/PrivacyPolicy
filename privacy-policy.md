@@ -26,6 +26,6 @@ Converter Game may display advertisements in the future (which it currently does
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 ### Contact Me
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me.
-Contact Information:
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me.</br>
+Contact Information:</br>
 Email: JayKayCooperations@gmail.com

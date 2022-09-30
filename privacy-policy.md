@@ -20,7 +20,7 @@ This app does not use location information transmitted from users' mobile phones
 As this app is also aimed at Google's family audience and therefore children under the age of 13, I would like to make it clear that Converter Game does not collect any personal information in any form.
 
 ### Advertisement
-Converter Game may display advertisements in the future (which it currently does not. These ads are provided via Google Plays certified ad SDKs and follow the family ad format requirements.
+Converter Game may display advertisements in the future (which it currently does not). These ads are provided via Google Plays certified ad SDKs and follow the family ad format requirements.
 
 ### Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
